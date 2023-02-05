@@ -1,12 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=4lmeida&color=006bed)
-
+<img src="logo2.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo lambda-four">
 <h3> :running_man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Formação Desenvolvedor Moderno na <a href="https://devsuperior.com.br/cursos">DevSuperior</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Spring e React.
-
-<img height="180em" src="" />
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -40,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/4lmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4lmeida&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4lmeida&theme=dracula&show_icons=true&title_color=2596be&text_color=2596be&border_color=hide_border&bg_color=" />
 </a>
 
 <br/>
