@@ -21,6 +21,7 @@
 **Utilidades**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  
 
 **DevOps**
 
@@ -35,13 +36,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
 
-<a href="https://github.com/4lmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4lmeida&theme=dracula&show_icons=true&title_color=2596be&text_color=2596be&border_color=hide_border&bg_color=" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
