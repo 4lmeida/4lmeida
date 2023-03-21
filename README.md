@@ -18,6 +18,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
