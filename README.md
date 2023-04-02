@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Formação Desenvolvedor Moderno na <a href="https://devsuperior.com.br/cursos">DevSuperior</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Spring e React.
-- 💪 &nbsp; Apaixonado pela calistenia e corrida. 
+- 💪 &nbsp; Apaixonado pela esporte e atividade física. 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
