@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=4lmeida&color=006bed)
+[![GitHub Luis Almeida]( https://img.shields.io/github/followers/4lmeida?label=follow&style=social)](https://github.com/4lmeida)
 
 <img src="logo2.png" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo lambda-four">
 
@@ -41,9 +42,3 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Luis Almeida](https://img.shields.io/badge/-LuisAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-almeida-dev/)](https://www.linkedin.com/in/luis-almeida-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-lferreira646@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lferreira646@gmail.com)](mailto:lferreira646@gmail.com)
-[![GitHub Luis Almeida]( https://img.shields.io/github/followers/4lmeida?label=follow&style=social)](https://github.com/4lmeida)
