@@ -10,7 +10,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre Spring e React.
 - ⚡ &nbsp; Apaixonado pelo esporte e atividade física. 
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Minha Stack </h3>
 
 **Aplicações e Dados**
 
