@@ -6,7 +6,7 @@
 <h3> :running_man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Formação Desenvolvedor Moderno na <a href="https://devsuperior.com.br/cursos">DevSuperior</a>.
+- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/graduacao-ao-vivo-telepresencial/analise-e-desenvolvimento-de-sistemas/">UNINTER</a>.
 - 🌱 &nbsp; Aprendendo mais sobre Spring e React.
 - ⚡ &nbsp; Entusiasta por esportes e atividade física. 
 
